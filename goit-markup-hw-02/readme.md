@@ -1,1 +1,1 @@
-https://github.com/Xertaron/goit-markup-hw-01
+https://github.com/Xertaron/goit-markup-hw-02
